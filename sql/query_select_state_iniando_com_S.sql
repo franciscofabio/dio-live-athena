@@ -1,0 +1,1 @@
+SELECT state FROM "populationdb"."population" WHERE state LIKE 'S%'

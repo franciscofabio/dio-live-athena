@@ -1,5 +1,7 @@
 # dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+Repositório criado para desafio de projeto sobre o Amazon Athena - Bootcamp Unimed_BH DIO
+
+- Para o meu projeto foi adicionado novas querys e filtroa com agrupamento e agregação de MIN, MAX, AVG, GROUP BY  e outros.
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
